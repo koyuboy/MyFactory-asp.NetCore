@@ -1,0 +1,12 @@
+D:\Yazılım\Git\webProgramlama-3\BackEnd\Factory\Factory\bin\Debug\net5.0\Entities.deps.json
+D:\Yazılım\Git\webProgramlama-3\BackEnd\Factory\Factory\bin\Debug\net5.0\Entities.dll
+D:\Yazılım\Git\webProgramlama-3\BackEnd\Factory\Factory\bin\Debug\net5.0\ref\Entities.dll
+D:\Yazılım\Git\webProgramlama-3\BackEnd\Factory\Factory\bin\Debug\net5.0\Entities.pdb
+D:\Yazılım\Git\webProgramlama-3\BackEnd\Factory\Factory\obj\Debug\net5.0\Entities.csprojAssemblyReference.cache
+D:\Yazılım\Git\webProgramlama-3\BackEnd\Factory\Factory\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yazılım\Git\webProgramlama-3\BackEnd\Factory\Factory\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+D:\Yazılım\Git\webProgramlama-3\BackEnd\Factory\Factory\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+D:\Yazılım\Git\webProgramlama-3\BackEnd\Factory\Factory\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+D:\Yazılım\Git\webProgramlama-3\BackEnd\Factory\Factory\obj\Debug\net5.0\Entities.dll
+D:\Yazılım\Git\webProgramlama-3\BackEnd\Factory\Factory\obj\Debug\net5.0\ref\Entities.dll
+D:\Yazılım\Git\webProgramlama-3\BackEnd\Factory\Factory\obj\Debug\net5.0\Entities.pdb

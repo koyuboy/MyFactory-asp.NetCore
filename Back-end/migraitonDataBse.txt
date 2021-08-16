@@ -1,0 +1,7 @@
+FIRST
+	add-migration initialCreate  // for first time
+			OR
+	add-migration initialCreate–ignoreChanges //to update existing migration
+
+SECOND
+	update-database
